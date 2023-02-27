@@ -1,6 +1,4 @@
-Hello! My name is Warren, and I'm studying for a degree in computer science – whenever I'm not wrapped up in side projects.
-
-
+Budding software engineer, computer scientist in training, and amateur mathematician. Currently completing degree course of study. Presently seeking full-time internships for Summer 2023.
 
 <!--
 **wsmarshall/wsmarshall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
